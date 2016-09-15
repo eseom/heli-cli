@@ -1,0 +1,22 @@
+{
+  "name": "heli-cli",
+  "version": "0.0.4",
+  "description": "",
+  "bin": {
+    "heli": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eseom/heli-cli.git"
+  },
+  "author": "EunseokEom <me@eseom.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eseom/heli-cli/issues"
+  },
+  "homepage": "https://github.com/eseom/heli-cli#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {}
+}

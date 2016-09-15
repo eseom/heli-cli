@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "debug": true,
+    "sequelize": {
+      "dbback": "postgres",
+      "host": "localhost",
+      "username": "username",
+      "password": "passw0rd",
+      "dbname": "dbname",
+      "logging": true
+    }
+  }}
