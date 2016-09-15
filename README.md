@@ -9,5 +9,5 @@
 $ npm install -g heli-cli
 $ heli init new-project
 $ cd new-project
-$ heli dev
+$ heli run
 ```
