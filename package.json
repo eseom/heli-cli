@@ -1,9 +1,11 @@
 {
   "name": "heli-cli",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "bin": {
-    "heli": "cli.js"
+    "heli": "cli.js",
+    "heli-init": "cli-init.js",
+    "heli-run": "cli-run.js"
   },
   "repository": {
     "type": "git",
